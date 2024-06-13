@@ -1,0 +1,101 @@
+# Flutter related files
+**/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/.name
+*.iml
+*.ipr
+*.iws
+*.jvmopts
+*.hprofs
+.gradle
+.dart_tool/
+
+# IntelliJ specific files and directories
+/.idea/
+/*.iml
+/.idea_modules/
+/out/
+
+# Logs
+/logs
+*.log
+
+# Compiled class files
+*.class
+
+# Generated files
+*.jar
+*.war
+*.ear
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Maven and Gradle directories
+/.mvn/
+/.mvn/
+/.gradle/
+/build/
+/target/
+
+# IDE specific
+*.swp
+*~
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+desktop.ini
+
+# Ignore Linux system files
+*~
+
+# Postgres and database related files
+*.pgdata
+*.sql
+pgdata/
+*.db
+*.db-journal
+
+# Spring Boot related files
+/spring-boot-app/bin/
+/spring-boot-app/build/
+
+# Node_modules (if using node for frontend related tasks)
+node_modules/
+
+# Environment variables
+.env
+
+# User-specific files
+*.env
+.idea/workspace.xml
+.idea/libraries
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/sonarlint/
+
+# Ignore binary files and other build artifacts
+/bin/
+/build/
+/target/
+/dist/
+
+# Flutter specific files
+.flutter-plugins
+.packages
+.pub-cache
+build/
